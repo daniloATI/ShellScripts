@@ -1,5 +1,5 @@
 # ShellScripts
-Estudo de Shell Scripts, Danilo C. S.
+Estudo de Shell Scripts
 
 # !/bin/bash
 
