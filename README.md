@@ -1,5 +1,5 @@
 # ShellScripts DANILO
-Estudo de Shell Scripts
+Estudo de Shell Scripts 
 
 # !/bin/bash
 
@@ -16,4 +16,4 @@ Link meu [Twitter(X)](https://twitter.com/nilo1206).
 
 TEXTO INSERIDO VIA VISUAL CODE, LOCALMENTE NO LINUX MINT
 
-22 SETEMBRO 2025, PALMAS
+14 DEZEMBRO 2025, PALMAS
