@@ -7,4 +7,4 @@ echo "Digite o valor para B"
 read valorB
 
 soma=$((valorA + valorB))
-echo "O valor da soma é: $soma"
+echo "O valor total da soma é: $soma"
