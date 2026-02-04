@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# modulo1 : demonstrate the modulo operator
+# modulo1 : Demonstrativo
 
 for ((i = 0; i <= 20; i = i + 1)); do
 	remainder=$((i % 5))
