@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # average - script to calculate the average of a series of numbers
+# average - script para calcular a média de uma série de números
 
 # handle cmd line option
 if [[ $1 ]]; then
