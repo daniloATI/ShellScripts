@@ -1,5 +1,5 @@
 # Estudos de ShellScripts DANILO
-Estudo de Shell Scripts 
+Estudo de Shell Scripts de Linux
 
 # !/bin/bash
 
